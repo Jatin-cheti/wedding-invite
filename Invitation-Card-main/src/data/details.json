@@ -1,0 +1,313 @@
+{
+  "primaryColor": "#C89585",
+  "brandName": "Sakshi & Abhishek",
+  "hero": {
+    "names": ["Sakshi", "Abhishek"],
+    "subtitle": "We joyfully invite you to the wedding of",
+    "location": "Triyugi Narayan Mandir • Uttarakhand"
+  },
+  "eventDetails": {
+    "tag": "Where & When",
+    "headline": "Celebration Details",
+    "cards": [
+      {
+        "id": 1,
+        "imageKey": "haldi",
+        "title": "Haldi Ceremony",
+        "time": "10:00 AM",
+        "subtitle": "09 December 2026",
+        "location": "Triyugi Narayan Mandir",
+        "borderColor": "rgba(200, 145, 130, 0.35)",
+        "gradient": "linear-gradient(145deg, #fff8f4, #f4e7e6)"
+      },
+      {
+        "id": 2,
+        "imageKey": "mehendi",
+        "title": "Mehendi & Sangeet Ceremony",
+        "time": "6:00 PM",
+        "subtitle": "10 December 2026",
+        "location": "Triyugi Narayan Mandir",
+        "borderColor": "rgba(180, 125, 105, 0.35)",
+        "gradient": "linear-gradient(145deg, #fff9f6, #f7e3de)"
+      },
+      {
+        "id": 3,
+        "imageKey": "ceremony",
+        "title": "Wedding Ceremony",
+        "time": "7:00 PM",
+        "subtitle": "11 December 2026",
+        "location": "Triyugi Narayan Mandir",
+        "borderColor": "rgba(215, 160, 120, 0.35)",
+        "gradient": "linear-gradient(145deg, #fff7f0, #f5dfd4)"
+      },
+      {
+        "id": 4,
+        "imageKey": "reception",
+        "title": "Reception",
+        "time": "7:30 PM",
+        "subtitle": "11 December 2026",
+        "location": "Triyugi Narayan Mandir",
+        "borderColor": "rgba(205, 140, 115, 0.35)",
+        "gradient": "linear-gradient(145deg, #fff8f3, #f6e2d8)"
+      }
+    ],
+    "mapImageKey": "venueMap",
+    "mapAlt": "Map location of Triyuginarayan Temple in Rudraprayag, Uttarakhand",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=Triyuginarayan%20Temple%2C%20Rudraprayag%2C%20Uttarakhand"
+  },
+  "story": {
+    "tag": "Postcard Album",
+    "headline": "Our Story",
+    "subtitle": "A few moments that led to our celebration",
+    "chapters": [
+      {
+        "id": 1,
+        "year": "2026",
+        "chapter": "Chapter I",
+        "title": "Haldi Blessings",
+        "description": "Family and friends gathered on the first day for the haldi ceremony, embracing warmth, color, and tradition.",
+        "imageKey": "haldi",
+        "location": "Triyugi Narayan Mandir, Uttarakhand",
+        "postmarkDate": "DEC 2026",
+        "stampIcon": ""
+      },
+      {
+        "id": 2,
+        "year": "2026",
+        "chapter": "Chapter II",
+        "title": "Mehendi & Sangeet",
+        "description": "An evening of music, dance, and joyful mehendi celebrations as the wedding weekend unfolded.",
+        "imageKey": "mehendi",
+        "location": "Triyugi Narayan Mandir, Uttarakhand",
+        "postmarkDate": "DEC 2026",
+        "stampIcon": ""
+      },
+      {
+        "id": 3,
+        "year": "2026",
+        "chapter": "Chapter III",
+        "title": "Wedding Ceremony",
+        "description": "Sakshi and Abhishek exchanged vows at Triyugi Narayan Mandir, surrounded by love and blessings.",
+        "imageKey": "ceremony",
+        "location": "Triyugi Narayan Mandir, Uttarakhand",
+        "postmarkDate": "DEC 2026",
+        "stampIcon": ""
+      },
+      {
+        "id": 4,
+        "year": "2026",
+        "chapter": "Chapter IV",
+        "title": "Reception Celebration",
+        "description": "The weekend closed with a reception that celebrated togetherness, joy, and the start of a new chapter.",
+        "imageKey": "reception",
+        "location": "Triyugi Narayan Mandir, Uttarakhand",
+        "postmarkDate": "DEC 2026",
+        "stampIcon": ""
+      }
+    ],
+    "footerNote": "Thank you for celebrating our wedding with love and blessings."
+  },
+  "footer": {
+    "title": "Thank You for Celebrating With Us",
+    "description": "Thank you for celebrating with us. Your love, blessings and presence are the greatest gifts we could ask for.",
+    "names": "Sakshi & Abhishek",
+    "dateLocation": "11 December 2026 • Triyugi Narayan Mandir, Uttarakhand",
+    "creditText": "Crafted by",
+    "creditLink": "https://tekkzy.com",
+    "creditName": "Tekkzy"
+  },
+  "countdown": {
+    "headline": "Until We Say “I Do”",
+    "date": "2026-12-11T00:00:00",
+    "location": "Triyugi Narayan Mandir • Uttarakhand"
+  },
+  "heartReveal": {
+    "tag": "The Heart of Our Celebration",
+    "headline": "Gathered in Love",
+    "note": "Tap the heart stage to watch the celebration come alive.",
+    "date": "December 11",
+    "year": "2026",
+    "ariaLabel": "Tap to animate the celebration into a heart and reveal the date"
+  },
+  "schedule": {
+    "tag": "Day Of Events",
+    "headline": "Schedule of Celebrations",
+    "description": "Triyugi Narayan Mandir • December 2026",
+    "viewControls": [
+      { "id": "3d-flip", "label": "3D Flip Cards" },
+      { "id": "3d-deck", "label": "3D Stage" },
+      { "id": "3d-ring", "label": "3D Orbit Ring" },
+      { "id": "ranch-map", "label": "Ranch Map" },
+      { "id": "time-slider", "label": "Time Scrubber" },
+      { "id": "passport", "label": "Passport" },
+      { "id": "classic-trail", "label": "Classic Trail" }
+    ],
+    "items": [
+      {
+        "id": "haldi",
+        "time": "10:00 AM",
+        "title": "Haldi Ceremony",
+        "location": "Triyugi Narayan Mandir",
+        "icon": "",
+        "tag": "Tradition",
+        "description": "Family and friends gather for the haldi ceremony and joyful pre-wedding blessings.",
+        "highlights": ["Haldi Ritual", "Family Blessings", "Traditional Celebrations"]
+      },
+      {
+        "id": "mehendi-sangeet",
+        "time": "6:00 PM",
+        "title": "Mehendi & Sangeet Ceremony",
+        "location": "Triyugi Narayan Mandir",
+        "icon": "",
+        "tag": "Celebration",
+        "description": "An evening of music, dance, and bright mehendi designs as we celebrate together.",
+        "highlights": ["Music & Dance", "Mehendi Art", "Family Fun"]
+      },
+      {
+        "id": "wedding-ceremony",
+        "time": "7:00 PM",
+        "title": "Wedding Ceremony",
+        "location": "Triyugi Narayan Mandir",
+        "icon": "",
+        "tag": "Vows",
+        "description": "The ceremony unites Sakshi and Abhishek in love, held in the heart of Triyugi Narayan Mandir.",
+        "highlights": ["Vow Exchange", "Sacred Ceremony", "Family Gatherings"]
+      },
+      {
+        "id": "reception",
+        "time": "7:30 PM",
+        "title": "Reception",
+        "location": "Triyugi Narayan Mandir",
+        "icon": "",
+        "tag": "Party",
+        "description": "A joyous reception with dinner, dancing, and the first celebration as newlyweds.",
+        "highlights": ["Dinner", "Dance Floor", "Special Toasts"]
+      }
+    ],
+    "mapLabels": {
+      "topLeft": "Triyugi Narayan Mandir Entrance",
+      "bottomRight": "Uttarakhand Welcome Point"
+    },
+    "note": "Swipe left/right or click cards to focus • Event {index} of {total}"
+  },
+  "gallery": {
+    "tag": "Gallery",
+    "headline": "Portraits from Our Journey",
+    "description": "Captured moments from our wedding celebrations.",
+    "images": [
+      {
+        "id": 1,
+        "imageKey": "gallery1",
+        "alt": "Wedding moment 1",
+        "caption": "Wedding moment 1",
+        "location": "Triyugi Narayan Mandir",
+        "aspect": "aspect-[3/4]",
+        "tilt": "-rotate-2"
+      },
+      {
+        "id": 2,
+        "imageKey": "gallery2",
+        "alt": "Wedding moment 2",
+        "caption": "Wedding moment 2",
+        "location": "Triyugi Narayan Mandir",
+        "aspect": "aspect-[4/5]",
+        "tilt": "rotate-2"
+      },
+      {
+        "id": 3,
+        "imageKey": "gallery3",
+        "alt": "Wedding moment 3",
+        "caption": "Wedding moment 3",
+        "location": "Triyugi Narayan Mandir",
+        "aspect": "aspect-[4/3]",
+        "tilt": "-rotate-1"
+      },
+      {
+        "id": 4,
+        "imageKey": "gallery4",
+        "alt": "Wedding moment 4",
+        "caption": "Wedding moment 4",
+        "location": "Triyugi Narayan Mandir",
+        "aspect": "aspect-[3/4]",
+        "tilt": "rotate-3"
+      }
+    ]
+  },
+  "bride": "Sakshi",
+  "groom": "Abhishek",
+  "weddingDate": "Friday, 11 December 2026",
+  "date": "11 December 2026",
+  "time": "7:00 PM",
+  "venue": "Triyuginarayan Temple",
+  "venueLocation": "Rudraprayag, Uttarakhand",
+  "venueAddress": "Triyuginarayan Village, Rudraprayag district, Uttarakhand",
+  "venueMapLink": "https://www.google.com/maps/search/?api=1&query=Triyuginarayan%20Temple%2C%20Rudraprayag%2C%20Uttarakhand",
+  "brideRole": "Daughter of",
+  "brideParents": "Mrs. Sunita Rana & Mr. Dharamveer Singh Rana",
+  "groomRole": "Son of",
+  "groomParents": "Mrs. Sangeeta Devi & Late Shri Dharmender Prasad",
+  "invitationMantra": "॥ ॐ गं गणपतये नमः ॥",
+  "invitationTitle": "Wedding Invitation",
+  "invitationMessage": "We joyfully invite you to the wedding of",
+  "invitationClosing": "With Love & Gratitude ❤️",
+  "dateAndPlace": "11 December 2026 • Triyugi Narayan Mandir, Uttarakhand",
+  "events": [
+    {
+      "title": "Haldi Ceremony",
+      "date": "09 December 2026",
+      "time": "10:00 AM",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLcX76dgpNiaHUsTOB94kcW6QsiTTsFtQ3HQDPlGGvMw6B8GhC0PAs1Go&s=10"
+    },
+    {
+      "title": "Mehendi & Sangeet Ceremony",
+      "date": "10 December 2026",
+      "time": "6:00 PM",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoWvJN1Jou23LBo36bM61UlvneGRLon1IlCUjQwHGcQixtfwpL_seYCG9h&s=10"
+    },
+    {
+      "title": "Wedding Ceremony",
+      "date": "11 December 2026",
+      "time": "7:00 PM",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMbSOcByJkQkHFwmvT4T_1fDLQH5KmV5OnWQBjREcxXQ&s=10"
+    },
+    {
+      "title": "Reception",
+      "date": "11 December 2026",
+      "time": "7:30 PM",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEOtthtwKs6EYlrYp6tSye4UDF89ja8BW1CS8WesISpQ&s=10"
+    }
+  ],
+  "galleryImages": [
+    {
+      "id": 1,
+      "src": "https://plus.unsplash.com/premium_photo-1682092632793-c7d75b23718e?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aW5kaWFuJTIwd2VkZGluZyUyMHBob3RvZ3JhcGh5fGVufDB8fDB8fHww",
+      "alt": "Wedding moment 1"
+    },
+    {
+      "id": 2,
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMbguuZ-GdzVb0PKQlU4hf_zSZFG0Vs7cT33eW-953Cg&s=10",
+      "alt": "Wedding moment 2"
+    },
+    {
+      "id": 3,
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVU5aGwdXJL0X0vlZghuH9GhwT3tiflLpbu133bT_1GP5QQGtkDaD5s9Xs&s=10",
+      "alt": "Wedding moment 3"
+    },
+    {
+      "id": 4,
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8nlo7LsKT73iN0JCEjX3tZV0GExtct4jMaZoJfbzkVOY8GmlmTFKyKX4&s=10",
+      "alt": "Wedding moment 4"
+    },
+    {
+      "id": 5,
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlCkrbeQ4-YwvSf7lxDOnbZxzudDi3hN_BH5EmpLgvyKAL--Tuxf8YjZ8&s=10",
+      "alt": "Wedding moment 5"
+    },
+    {
+      "id": 6,
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlyc7Q_dTUJ74gClxW0KCpxquyC170IInDgfFQcPI3BxeBHe6ErYNr7NE&s=10",
+      "alt": "Wedding moment 6"
+    }
+  ],
+  "ovalPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUsRcvC6C0sDaliuJghwTyPSVs7tEJbUZhzw6fstL_fY6Q_lMhzKlPP7oa&s=10"
+}
